@@ -1,4 +1,4 @@
-# Ubuntu
+# Apps
 
 * [lsd](https://github.com/Peltoche/lsd) - a rewrite of GNU ls with lots of added features like colors, icons, tree-view, more formatting options etc.
 * [FiraCode Nerd Font](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/FiraCode/font-info.md) - Ligatures and icons
@@ -13,7 +13,7 @@
 * [nnn](https://github.com/jarun/nnn) - (n³) is a full-featured terminal file manager.
 * [micro](https://micro-editor.github.io/) - modern and intuitive terminal-based text editor
 
-# Global
+# Resources
 
 * [NerdFonts](https://www.nerdfonts.com/font-downloads) - Fonts for all styles
 * [ProgrammingFonts](https://www.programmingfonts.org/) - Fonts preview
